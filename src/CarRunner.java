@@ -79,4 +79,6 @@ public class CarRunner
         System.out.println(" Expected: " + tempList);
         System.out.println("   Actual: " + actInv);
     }
+
+    System.out.println("trial: see if you can print me!!");
 }
