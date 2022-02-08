@@ -47,6 +47,6 @@ public class Runner {
 //
 //
 //        System.out.println(numList);
-        System.out.println("trial: see if you can print me!!");
+        System.out.println("trial: see if you can print me!");
     }
 }
